@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gtankha/jest-another-RPG.git"
+  },
+  "author": "gt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gtankha/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/gtankha/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
